@@ -9,7 +9,7 @@ import streamlit as st
 
 You can see we are working in our `/streamlit_app.py` as a template of making a crypto currency dashboard :heart:
 
-Checkout our [Cointel Finance Github](https://github.com/cointelfinance) & check out our partner (https://docs.streamlit.io).
+Checkout our [Cointel Finance Github](https://github.com/cointelfinance) & check out our partner [Streamlit] (https://docs.streamlit.io).
 
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
